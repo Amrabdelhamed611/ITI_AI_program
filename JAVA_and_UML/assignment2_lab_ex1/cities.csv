@@ -1,0 +1,18 @@
+country_id,city_id,name,capital,population
+1,1,Cairo,true,19372000
+1,2,Alexandria,false,4870000
+1,3,Giza,false,3021542
+1,4,Port Said,false,524433
+2,1,San Juan,false,471389
+2,2,Buenos Aires,true,16157000
+2,3,Córdoba,false,1329604
+3,1,São Paulo,false,22046000
+3,2,Rio de Janeiro,false,12272000
+3,3,Brasília,true,3015268
+4,1,Mexico City,true,20996000
+4,2,Guadalajara,false,5253000
+4,3,Monterrey,false,4295000
+4,4,Tijuana,false,2384609
+5,1,Shanghai,false,22120000
+5,2,Guangzhou,false,20902000
+5,3,Beijing,true,19433000
